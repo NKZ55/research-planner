@@ -1,0 +1,21 @@
+{
+  "name": "research-planner",
+  "owner": {
+    "name": "Ningkai Zheng",
+    "email": "ningkaizheng@gmail.com"
+  },
+  "description": "Designs market and user research plans, selects methods, and generates research materials (screeners, guides, surveys, scripts) but does not analyze collected data.",
+  "version": "0.1.0",
+  "author": "ningkaizheng",
+  "repository": "https://github.com/NKZ55/research-planner",
+  "skills": [
+    "skills/research-planner"
+  ],
+  "categories": [
+    "research",
+    "ux",
+    "product"
+  ],
+  "license": "MIT"
+}
+
