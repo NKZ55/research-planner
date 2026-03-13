@@ -4,6 +4,16 @@ description: >
   Designs market and user research plans focused on methodology selection and research material authoring (screeners, surveys, interview guides, usability task scripts, etc.). Use this skill whenever the user wants to plan or structure research activities, choose between qualitative and quantitative methods, or draft research artifacts, but not to analyze collected data.
 ---
 
+# Installation
+**Via Clawdhub:**
+```bash
+clawdhub install research-planner
+```
+**Manual Intallation:**
+```bash
+npx skills add https://github.com/NKZ55/research-planner/tree/main/skills/research-planner
+```
+
 # Research Planner
 
 Market and user research planning skill focused on **research design and documentation**, not on data analysis.
