@@ -9,7 +9,7 @@ description: >
 ```bash
 clawdhub install research-planner
 ```
-**Manual Intallation:**
+**Manual Installation:**
 ```bash
 npx skills add https://github.com/NKZ55/research-planner/tree/main/skills/research-planner
 ```
