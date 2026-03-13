@@ -1,3 +1,14 @@
+# Installation
+**Via Clawdhub:**
+```bash
+clawdhub install research-planner
+```
+**Manual Installation:**
+```bash
+npx skills add https://github.com/NKZ55/research-planner/tree/main/skills/research-planner
+```
+
+
 # Research Planner Skill
 
 Market and user research **planning** skill for Claude-style agents.  
